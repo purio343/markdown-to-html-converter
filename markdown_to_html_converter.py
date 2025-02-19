@@ -1,8 +1,5 @@
 import markdown
 import sys
-import os
-from spire.doc import *
-from spire.doc.common import *
 
 def main():
     if len(sys.argv) < 4:
